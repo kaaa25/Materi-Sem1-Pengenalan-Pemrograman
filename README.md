@@ -1,2 +1,2 @@
-# Materi-Sem1-Pengenalan-Pemrograman
-repository ini berisi seluruh praktik pada teori pengenalan pemrograman
+# Arsip-Praktik-Pengenalan-Pemrograman
+repository ini berisi seluruh praktik mata kuliah pengenalan pemrograman semester 1
